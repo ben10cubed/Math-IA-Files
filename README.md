@@ -1,6 +1,7 @@
 # Math-IA-Files
 Here are the programs and photos used for my Maths IA.
 There are quite a few programs that were used. Here are some guides to run them if required.
+Please note, not all the files I have used will be attached. For example, some programs used to draw sin graphs can easily be done in other software.
 
 # Ocean Current Picture
 The pic.PNG file contains an image of the ocean currents from the Earth Nullschool website.
