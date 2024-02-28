@@ -16,6 +16,7 @@ Beccario, Cameron. “A Global Map of Wind, Weather, and Ocean Conditions.” A 
 # Streamline Files
 These files contain programs that generate the data required to plot streamlines.
 As the name of the files suggest, "Euler Polynomial" is for the polynomial model while "Euler Sin" is for the sin model.
+"Boat Trajectory" on the other hand draws the trajectory of the boat.
 To run this, please put each of these folders in a separate, newly created folder. These generate quite a lot of text files.
 To compile the data into an Excel spreadsheet, copy the "excelCreate" file into the respective directories and run the program.
 
@@ -26,9 +27,9 @@ I am unable to provide all iterations of this program but for some instances, th
 
 # Other Files
 There are two other files that I have included that are relatively important.
-The first one is "LinearTransformation.m" which is a MATLAB program used to solve for the linear transformation matrix.
+The first one is ";inearTransformation.m" which is a MATLAB program used to solve for the linear transformation matrix.
 Simply run it and the matrix will be outputted which should be the same as the one in the IA.
 
-The second one is "DrawModel.m" which is another MATLAB program used to draw vectors from the various models over the raw image.
+The second one is "drawModel.m" which is another MATLAB program used to draw vectors from the various models over the raw image.
 For this, uncomment different models and run the program to view these models. 
 Only leave one model uncommented, and do not touch the other sections of the code.
